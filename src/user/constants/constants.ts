@@ -1,0 +1,9 @@
+export const TOKEN_PREFIX: string = 'Bearer ';
+export const CLOUD_CONVERT_URL: string = 'https://api.cloudconvert.com/v2/jobs';
+export const IMPORT_BASE64: string = 'import/base64';
+export const CONVERT: string = 'convert';
+export const IMPORT: string = 'import';
+export const PDF: string = 'pdf';
+export const EXPORT_URL: string = 'export/url';
+export const CALCULATION: string = 'calculation';
+export const JOB_BUILDER: string = 'jobbuilder';
